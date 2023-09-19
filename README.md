@@ -1,5 +1,5 @@
 # Git Practice
-##[Website link](https://www.springboard.com/blog/software-engineering/software-engineering-good-career/#:~:text=Software%20Engineering%20Future%20Outlook,-Computers%20aren%27t&text=The%20Bureau%20of%20Labor%20Statistics,engineers%20to%20fill%20them%20up)
+[Website link](https://www.springboard.com/blog/software-engineering/software-engineering-good-career/#:~:text=Software%20Engineering%20Future%20Outlook,-Computers%20aren%27t&text=The%20Bureau%20of%20Labor%20Statistics,engineers%20to%20fill%20them%20up)
 
 What I find interesting about this article is its comprehensive overview of the software engineering career path, from entry-level positions to advanced roles like principal engineer or technical director. It provides valuable insights into the potential earnings at each career stage, which can be motivating for those considering this field.
 
